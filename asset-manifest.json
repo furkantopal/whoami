@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whoami/static/css/main.f855e6bc.css",
+    "main.js": "/whoami/static/js/main.39eef340.js",
+    "static/js/787.4c7e7112.chunk.js": "/whoami/static/js/787.4c7e7112.chunk.js",
+    "index.html": "/whoami/index.html",
+    "main.f855e6bc.css.map": "/whoami/static/css/main.f855e6bc.css.map",
+    "main.39eef340.js.map": "/whoami/static/js/main.39eef340.js.map",
+    "787.4c7e7112.chunk.js.map": "/whoami/static/js/787.4c7e7112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.39eef340.js"
+  ]
+}
